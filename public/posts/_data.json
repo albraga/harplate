@@ -1,0 +1,11 @@
+{
+  "second": {
+    "pageTitle": "My second post"
+  },
+  "first": {
+    "pageTitle": "My first post"
+  },
+  "index": {
+    "pageTitle": "Posts"
+  }
+}

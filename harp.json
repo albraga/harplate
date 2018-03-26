@@ -1,0 +1,7 @@
+{
+  "globals": {
+    "siteTitle": "Acme Site",
+    "name": "John Doe",
+    "uri": "http://example.com"
+  }
+}
